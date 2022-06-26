@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "239528089670",
+    "project_id": "farmlink-979b4",
+    "storage_bucket": "farmlink-979b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239528089670:android:b7ea32ffb61d32d4451247",
+        "android_client_info": {
+          "package_name": "com.example.farmlink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239528089670-m8kkd16kdvq17pb4cltebmg7koiehoo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaYiSTXHiW9Fu0_pJ5t46JUGjJEchpqiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239528089670-m8kkd16kdvq17pb4cltebmg7koiehoo5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">FarmLink</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Search</string>
+    <string name="title_notifications">Sell</string>
+
+    <string-array name="produtos">
+        <item>Bananas</item>
+        <item>Maças</item>
+        <item>Couve-flor</item>
+        <item>Perâs</item>
+        <item>Limões</item>
+        <item>Cenouras</item>
+        <item>Batatas</item>
+        <item>Feijão Preto</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>TODO</item>
+        <item>TODO</item>
+        <item>TODO</item>
+        <item>TODO</item>
+        <item>TODO</item>
+        <item>TODO</item>
+        <item>TODO</item>
+        <item>TODO</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>2.0€/Kg</item>
+        <item>1.25€/Kg</item>
+        <item>0.75€/Kg</item>
+        <item>1.75€/Kg</item>
+        <item>1.4€/Kg</item>
+        <item>0.75€/Kg</item>
+        <item>3.5€/Kg</item>
+        <item>1.5€/Kg</item>
+    </string-array>
+</resources>
